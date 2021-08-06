@@ -1,0 +1,12 @@
+/Users/hashmi/Projects/MazeSolver/MazeSolver/bin/Debug/netcoreapp3.1/MazeSolver.deps.json
+/Users/hashmi/Projects/MazeSolver/MazeSolver/bin/Debug/netcoreapp3.1/MazeSolver.runtimeconfig.json
+/Users/hashmi/Projects/MazeSolver/MazeSolver/bin/Debug/netcoreapp3.1/MazeSolver.runtimeconfig.dev.json
+/Users/hashmi/Projects/MazeSolver/MazeSolver/bin/Debug/netcoreapp3.1/MazeSolver.dll
+/Users/hashmi/Projects/MazeSolver/MazeSolver/bin/Debug/netcoreapp3.1/MazeSolver.pdb
+/Users/hashmi/Projects/MazeSolver/MazeSolver/obj/Debug/netcoreapp3.1/MazeSolver.csprojAssemblyReference.cache
+/Users/hashmi/Projects/MazeSolver/MazeSolver/obj/Debug/netcoreapp3.1/MazeSolver.AssemblyInfoInputs.cache
+/Users/hashmi/Projects/MazeSolver/MazeSolver/obj/Debug/netcoreapp3.1/MazeSolver.AssemblyInfo.cs
+/Users/hashmi/Projects/MazeSolver/MazeSolver/obj/Debug/netcoreapp3.1/MazeSolver.csproj.CoreCompileInputs.cache
+/Users/hashmi/Projects/MazeSolver/MazeSolver/obj/Debug/netcoreapp3.1/MazeSolver.dll
+/Users/hashmi/Projects/MazeSolver/MazeSolver/obj/Debug/netcoreapp3.1/MazeSolver.pdb
+/Users/hashmi/Projects/MazeSolver/MazeSolver/obj/Debug/netcoreapp3.1/MazeSolver.genruntimeconfig.cache
